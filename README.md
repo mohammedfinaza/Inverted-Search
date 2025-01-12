@@ -1,2 +1,2 @@
 # Inverted-Search
-This project uses data structures that creates an index to efficiently store and retrieve content like words or numbers along with their no of occurrences in each files. It uses a combination of a hash table and linked lists to map each piece of content (e.g., a word) to its occurrences in the files.
+This project uses data structures to build an efficient system for indexing and retrieving content like words or numbers. It keeps track of how often each item appears in different files and where they are located. By combining hash tables and linked lists, it ensures fast and reliable performance, making it easier to handle and search through large amounts of data.
